@@ -1,0 +1,16 @@
+*{
+    margin: 0%;
+}
+p{
+    font-size: xx-large;
+    font-weight: bolder;
+    margin-top: 20%;
+    color:rgb(0, 0, 0);
+    text-align: center;
+   
+    
+    
+}
+html{
+    background-image: linear-gradient(to right, rgb(243, 107, 107),rgb(238, 193, 110),rgb(235, 235, 158),rgb(170, 248, 170),rgb(165, 165, 241),rgb(207, 165, 238),rgb(247, 160, 247));
+}
